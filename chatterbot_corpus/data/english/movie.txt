@@ -1,0 +1,13 @@
+categories:
+- Movie info
+conversations:
+- - Which is best sci-fi movie?
+  - Avengers 
+  - Captain america
+  - Superman.
+  - interstellar.
+- - Which is the best comedy movie?
+  - housefull
+  - dumb and dumber
+  - spartans
+  
